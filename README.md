@@ -1,2 +1,2 @@
-# compet
+# competitive
 competitive-programming
